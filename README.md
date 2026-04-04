@@ -37,7 +37,7 @@ Faculty of **Intelligent Robotics Institute**
 | 🔧 Project | 📄 Description | 🧠 Technologies |
 |------------|----------------|----------------|
 | [**lgbt**](https://pypi.org/project/lgbt/) | My Python package that displays the progress of the cycle | `Python`, `Security`, `Architecture` |
-| [**Password manager**](https://github.com/JohanSundstain/PasswordManager) | A simple console application for secure password storage (in progress) | `C++`,`WinAPI`, `libsodium` |
+| [**Password manager**](https://github.com/JohanSundstain/PasswordManager) | A simple console application for secure password storage (availible) | `C++`,`WinAPI`, `libsodium` |
 ---
 
 ## 🧭 Goals
