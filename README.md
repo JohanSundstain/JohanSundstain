@@ -51,3 +51,6 @@ Faculty of **Intelligent Robotics Institute**
 ## 📫 Contact
 
 📧 Email: kopylovmatveyx@gmail.com 
+
+## Resume
+
